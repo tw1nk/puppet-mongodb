@@ -2,7 +2,8 @@
 
 This is a Puppet module for mongodb based on the second generation layout ("NextGen") of Example42 Puppet Modules.
 
-Made by Alessandro Franceschi / Lab42
+Made by Calle Gustafsson 
+
 
 Official site: http://www.example42.com
 
